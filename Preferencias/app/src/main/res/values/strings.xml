@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Preferencias</string>
+    <string name="introduzca_su_correo">Introduzca su correo</string>
+    <string name="enviar">Enviar</string>
+    <string name="guardar">Guardar</string>
+</resources>

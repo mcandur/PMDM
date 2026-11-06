@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ActivityPruebas</string>
+    <string name="anterior">Anterior</string>
+    <string name="segundo_activity">Segundo Activity</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="primer_activity">Primer activity</string>
+    <string name="ingrese_su_nombre">Ingrese su nombre</string>
+    <string name="ingrese_su_fecha_de_nacimiento">Ingrese su fecha de nacimiento</string>
+    <string name="www_web_com">www.web.com</string>
+    <string name="cerrar">Cerrar</string>
+</resources>

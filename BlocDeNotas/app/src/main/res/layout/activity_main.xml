@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    tools:context=".MainActivity">
+
+    <EditText
+        android:id="@+id/txtNotas"
+        android:layout_width="289dp"
+        android:layout_height="442dp"
+        android:layout_marginStart="60dp"
+        android:layout_marginTop="68dp"
+        android:background="#5CDEC6"
+        android:ems="10"
+        android:gravity="start|top"
+        android:hint="Escriba sus pensamientos"
+        android:inputType="textMultiLine"
+        android:textColor="#EF6C00"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="104dp"
+        android:layout_marginTop="88dp"
+        android:backgroundTint="#EF6C00"
+        android:onClick="guardar"
+        android:text="Guardar"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtNotas" />
+</androidx.constraintlayout.widget.ConstraintLayout>

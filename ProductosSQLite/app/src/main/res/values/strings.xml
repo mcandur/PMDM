@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ProductosSQLite</string>
+    <string name="borrar">Borrar</string>
+    <string name="modificar">Modificar</string>
+    <string name="buscar">Buscar</string>
+    <string name="registrar">Registrar</string>
+    <string name="_0_00">0.00€</string>
+    <string name="descripci_n">Descripción</string>
+    <string name="c_digo">Código</string>
+</resources>

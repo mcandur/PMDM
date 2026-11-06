@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AgendaDeContactos</string>
+    <string name="datos_contacto">Datos contacto</string>
+    <string name="nombre_contacto">Nombre contacto</string>
+</resources>
