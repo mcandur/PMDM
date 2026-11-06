@@ -1,0 +1,21 @@
+# Android Studio
+.idea/
+*.iml
+
+# Gradle
+.gradle/
+**/build/
+
+# Archivos locales de Android
+local.properties
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# APK y AAB
+*.apk
+*.aab
